@@ -1,2 +1,2 @@
 # python_lessons
-Bu yerda Sariq Dev - Dasturlash asoslari kursidagi amaliyotlar va ularni javoblari joylashgan
+Bu yerda Sariq Dev kanalining - Dasturlash asoslari kursidagi amaliyotlar va ularni javoblari joylashgan
